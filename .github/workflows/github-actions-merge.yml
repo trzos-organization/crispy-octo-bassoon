@@ -18,7 +18,7 @@ jobs:
 
       - name: setup git config
         run: |
-          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default x
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
